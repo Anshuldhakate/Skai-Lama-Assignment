@@ -3,7 +3,10 @@
 This is a React-based application for managing podcast projects. It includes features for user authentication (login and registration), project creation, and project management with a modern user interface.
 
 ## Deployed Link-
-https://mellow-salamander-b62922.netlify.app/
+frontend- https://mellow-salamander-b62922.netlify.app/
+backend- https://skai-backend-firj.onrender.com
+
+
 
 <img width="947" alt="Screenshot 2024-11-18 154303" src="https://github.com/user-attachments/assets/53887dd5-dcfc-424f-87fa-b064f0a0982d">
 
