@@ -1,0 +1,29 @@
+.projects-page {
+    padding: 20px;
+  }
+  
+  .project-card {
+    display: flex;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .project-initials {
+    background: orange;
+    color: white;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .project-details h3 {
+    margin: 0;
+  }
+  
